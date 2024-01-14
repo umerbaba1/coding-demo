@@ -3,4 +3,14 @@
     color: azure;
     background-color: black;
     border-radius: 45px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.footer{
+    font-size: 900;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 600px;
+    padding-left: 500px;
+    display: inline-block;
 }
